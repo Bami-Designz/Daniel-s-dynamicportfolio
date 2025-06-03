@@ -1,0 +1,53 @@
+{
+
+"name": "Ajibade Daniel Oluwasegunfunmi",
+
+"bio": "Creative designer specializing in flyers, social media branding, and visual storytelling.",
+
+"sections": [
+
+{
+
+  "title": "Flyer Designs",
+
+  "images": ["flyer1.jpeg", "flyer2.jpeg", "flyer3.jpeg", "flyer4.jpeg"]
+
+},
+
+{
+
+  "title": "Social Media Branding",
+
+  "images": ["brand1.jpeg", "brand2.jpeg"]
+
+},
+
+{
+
+  "title": "Behind the Scenes",
+
+  "video": "bts-video.mp4"
+
+},
+
+{
+
+  "title": "Contact",
+
+  "email": "danielajibade22@gmail.com",
+
+  "phone": "+234-913-762-9329",
+
+  "links": {
+
+    "Instagram": "danielajibade_o",
+
+    "WhatsApp": "+234-913-762-9329"
+
+  }
+
+}
+
+]
+
+}
